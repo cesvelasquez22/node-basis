@@ -1,0 +1,15 @@
+{
+  "name": "s4-node-basics",
+  "version": "0.0.1",
+  "description": "Convert your entries in multiple tables and saved files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Velasquez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
